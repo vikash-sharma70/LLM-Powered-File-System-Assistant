@@ -1,0 +1,1 @@
+Aditi Sharma is a backend engineer with experience in building APIs using Python. She has worked at Nimbus Tech as a Backend Developer since 2021, where she built and maintained microservices and migrated a legacy monolith to a modular architecture. She is skilled in Python, Django, REST APIs, PostgreSQL, Docker, and Git.

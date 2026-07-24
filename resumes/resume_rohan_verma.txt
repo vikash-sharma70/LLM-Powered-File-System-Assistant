@@ -1,0 +1,16 @@
+Rohan Verma
+Email: rohan.verma@example.com | Phone: +91-9800022233
+
+Summary
+Java backend developer specializing in enterprise applications.
+
+Skills
+Java, Spring Boot, Hibernate, Kafka, MySQL, Jenkins
+
+Experience
+Software Engineer, Bluewave Systems (2020 - Present)
+- Developed Spring Boot services for payment processing
+- Set up Kafka-based event pipelines for order management
+
+Education
+B.E. in Information Technology, VJTI Mumbai (2016 - 2020)

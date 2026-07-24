@@ -1,0 +1,16 @@
+Priya Nair
+Email: priya.nair@example.com | Phone: +91-9800033344
+
+Summary
+Data scientist with strong Python and machine learning background.
+
+Skills
+Python, Pandas, NumPy, Scikit-learn, SQL, Tableau
+
+Experience
+Data Scientist, Insight Analytics (2019 - Present)
+- Built Python pipelines for churn prediction using scikit-learn
+- Automated reporting with Pandas, reducing manual effort by 70%
+
+Education
+M.Sc. in Statistics, University of Hyderabad (2017 - 2019)

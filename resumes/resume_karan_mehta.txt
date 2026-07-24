@@ -1,0 +1,16 @@
+Karan Mehta
+Email: karan.mehta@example.com | Phone: +91-9800044455
+
+Summary
+Frontend engineer focused on building fast, accessible web apps.
+
+Skills
+JavaScript, TypeScript, React, Redux, HTML, CSS
+
+Experience
+Frontend Developer, PixelCraft Studio (2021 - Present)
+- Built a component library used across 5 React products
+- Improved Lighthouse performance scores from 62 to 94
+
+Education
+B.Tech in Computer Science, DTU Delhi (2017 - 2021)
